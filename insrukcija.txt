@@ -1,0 +1,6 @@
+Kompilēšana:
+  javac *.java
+
+Testēšana:
+  java PolicyTest
+
